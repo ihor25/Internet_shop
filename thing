@@ -1,0 +1,3 @@
+class Thing{
+private Integer ID;
+private 

@@ -1,0 +1,7 @@
+class User{
+private Integer ID;
+private String NAME;
+public Integer ID_LOCATION;
+private String PASSWORD;
+private boolean IS_ADMIN;		
+}

@@ -1,0 +1,8 @@
+class Location {
+public Integer ID_LOCATION;
+private String NAME_LOC;
+private String COUNTRY;
+private String TOWN;
+private String STREET;
+private String HOUSE;
+}
